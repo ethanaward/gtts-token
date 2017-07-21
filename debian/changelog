@@ -1,5 +1,5 @@
 gtts-token (1.1.1-1) UNRELEASED; urgency=medium
 
-  * Initial Debian release
+  * Initial Debian release (closes: #869103)
 
  -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 10:00:40 -0500
